@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "774894202138",
+    "project_id": "firstproject-f1ef1",
+    "storage_bucket": "firstproject-f1ef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774894202138:android:d1f826dc64c9d1455510a3",
+        "android_client_info": {
+          "package_name": "com.example.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774894202138-vpp55r97n6io6bkmnap1h5qr1kfdnqd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjY7upm9RDtzY0kGYhNG04kym0UaYAqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774894202138-vpp55r97n6io6bkmnap1h5qr1kfdnqd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774894202138:android:d9d401b2e9b99a3e5510a3",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774894202138-vpp55r97n6io6bkmnap1h5qr1kfdnqd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjY7upm9RDtzY0kGYhNG04kym0UaYAqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774894202138-vpp55r97n6io6bkmnap1h5qr1kfdnqd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774894202138:android:58ce3aa9a8cf80615510a3",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabaserules"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774894202138-vpp55r97n6io6bkmnap1h5qr1kfdnqd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjY7upm9RDtzY0kGYhNG04kym0UaYAqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774894202138-vpp55r97n6io6bkmnap1h5qr1kfdnqd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
